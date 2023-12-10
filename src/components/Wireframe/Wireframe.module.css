@@ -1,0 +1,209 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 2100px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.userStudyComments50100WordsDes {
+  position: absolute;
+  left: 221px;
+  top: 1481px;
+  width: 1167px;
+  height: 59px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.whatThisComparisonCanTellUs {
+  color: #000;
+  font-size: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 221px;
+  top: 1431px;
+  width: 534px;
+  height: 29px;
+  flex-direction: column;
+}
+._50100WordsDescriptionVoluptate {
+  position: absolute;
+  left: 221px;
+  top: 1699px;
+  width: 1167px;
+  height: 59px;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.whatWhoIsAHighlySensiblePerson {
+  color: #000;
+  font-size: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 221px;
+  top: 1649px;
+  width: 534px;
+  height: 29px;
+  flex-direction: column;
+}
+.vector1 {
+  position: absolute;
+  left: 679.1849px;
+  top: 935.5px;
+  width: 311.7946px;
+  height: 182px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 100.8422px;
+  top: 926.5px;
+  width: 160.585px;
+  height: 719.5px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.userJourney1 {
+  position: absolute;
+  left: 163px;
+  top: 219px;
+  width: 1002px;
+  height: 708px;
+  background-image:/* webpackIgnore: true */ url('/assets/userJourney1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titel {
+  color: #000;
+  font-size: 32px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 163px;
+  top: 70px;
+  width: 259px;
+  height: 38px;
+  flex-direction: column;
+}
+._50100WordsDescriptionVoluptate2 {
+  position: absolute;
+  left: 163px;
+  top: 134px;
+  width: 1167px;
+  height: 59px;
+  flex-direction: column;
+}
+.textBlock8 {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.originalAudio {
+  color: #000;
+  font-size: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 221px;
+  top: 1165px;
+  width: 367px;
+  height: 29px;
+  flex-direction: column;
+}
+.metaphorHowAHighlySensiblePers {
+  color: #000;
+  font-size: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 854px;
+  top: 1165px;
+  width: 367px;
+  height: 29px;
+  flex-direction: column;
+}
+.rectangle1 {
+  position: absolute;
+  left: 221px;
+  top: 1229px;
+  width: 358px;
+  height: 64px;
+  background-color: #d9d9d9;
+}
+.rectangle2 {
+  position: absolute;
+  left: 854px;
+  top: 1229px;
+  width: 358px;
+  height: 64px;
+  background-color: #d9d9d9;
+}
