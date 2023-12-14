@@ -1,4 +1,9 @@
 /* Reset CSS */
+:root {
+    --green: #2C7755;
+    --violet: #820263;
+  }
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -9,20 +14,33 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 1.6;
+    color: #333;
     background-color: #f9f9f9;
 }
 
 header {
-    background-color: #009688;
+    background-color: #fff;
+    color: #fff;
     text-align: center;
     padding: 20px;
+    position: relative;
 }
 
 h1 {
     font-family: 'League Spartan', sans-serif;
     font-size: 2em;
     margin-bottom: 10px;
-    color: #2C7755;
+    margin-right: 120px;
+    color: var(--green);
+}
+
+.header-image {
+    position: absolute;
+    top: 50%; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    transform: translateY(-50%);
+    max-width: 100px; /* Adjust the max-width as needed */
+    height: auto;
 }
 
 main {
@@ -37,7 +55,7 @@ section {
 }
 
 h2 {
-    color: #009688;
+    color: var(--violet);
     font-size: 1.5em;
     margin-bottom: 10px;
 }
@@ -59,3 +77,13 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+.user-journey {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Add more styles as needed */
